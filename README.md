@@ -1,7 +1,3 @@
-Certainly! Here's a more polished version of your README:
-
----
-
 # IoT Temperature Tracker with ESP-01 and DHT22
 
 This project involves setting up an IoT temperature and humidity tracker using an ESP-01 module with a DHT22 sensor. The ESP-01 is programmed to measure environmental data and send it to a server for further processing.
