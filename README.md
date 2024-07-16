@@ -49,5 +49,3 @@ This project involves setting up an IoT temperature and humidity tracker using a
   - Clone the repository onto the Oracle Cloud instance and deploy the Flask application.
 
 ---
-
-This README provides a structured overview of your project, detailing the components used, workflow, deployment steps, and usage instructions. Adjust it further based on specific details or additional features of your implementation.
