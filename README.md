@@ -43,9 +43,7 @@ This project involves setting up an IoT temperature and humidity tracker using a
 - **Local Testing:**
   - Test the ESP-01 setup locally using a USB to TTL adapter.
   - Verify temperature and humidity readings on the Arduino IDE serial monitor.
-
+  
 - **Deployment to Oracle Cloud:**
   - Push changes to the GitHub repository.
   - Clone the repository onto the Oracle Cloud instance and deploy the Flask application.
-
----
